@@ -1,9 +1,9 @@
 
-# Peer-to-Peer Carpooling using Blockchain 🚗🔗
+# Peer-to-Peer Ride-Sharing using Blockchain 🚗🔗
 
 ## Overview
 
-This project aims to develop a decentralized and secure carpooling platform utilizing blockchain technology. The platform facilitates seamless peer-to-peer carpooling arrangements while ensuring trust, transparency, and efficiency through smart contracts and decentralized data management.
+This project aims to develop a decentralized and secure ride-sharing platform utilizing blockchain technology. The platform facilitates seamless peer-to-peer ride-sharing arrangements while ensuring trust, transparency, and efficiency through smart contracts and decentralized data management.
 
 ## Features
 
@@ -20,7 +20,7 @@ This project aims to develop a decentralized and secure carpooling platform util
   - Implement a system to manage digital identities and reputations of users, enhancing trust within the carpooling community.
 
 - **Security and Privacy** 🔒
-  - Utilize blockchain's encryption and decentralized architecture to enhance security and privacy of user data.
+  - Utilize blockchain's encryption and decentralized architecture to enhance the security and privacy of user data.
 
 - **Trip History and Accountability** 📈
   - Maintain an immutable trip history on the blockchain for reference and dispute resolution.
